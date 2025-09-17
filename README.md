@@ -15,6 +15,7 @@ Currently, I’m exploring and working on:
  I enjoy merging design and development — bridging the gap between functionality and aesthetics.
 
 📌 Featured Projects:
+
    Peerly → A peer-to-peer learning platform with credits system
 
    Clyra → A mood-driven companion app designed with emotional UX principles
