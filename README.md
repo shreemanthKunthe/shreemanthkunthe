@@ -5,8 +5,11 @@ An aspiring Full-Stack Developer and UI/UX Designer passionate about building we
 Currently, I’m exploring and working on:
 
 ⚛️ MERN Stack – MongoDB, Express, React, Node.js
+
 🎨 UI/UX Design – Prototyping & Interaction Design (Figma, Framer, Tailwind, Framer Motion)
+
 🤖 AI & Chatbot Design – integrating AI into human-centered digital experiences
+
 🌐 Web Apps & SaaS Projects – turning ideas into usable, real-world products
 
  I enjoy merging design and development — bridging the gap between functionality and aesthetics.
