@@ -26,5 +26,7 @@ Currently, I’m exploring and working on:
 📫 Let’s Connect!
 
 Email: shreemanthkunthe02@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/shreemanth-kunthe-a695aa2a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1ApQCaW2ScaXhsojgzoaJQ%3D%3D
+
 Portfolio:https://shreemanthkportfolio.framer.website/
